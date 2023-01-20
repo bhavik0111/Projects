@@ -1,0 +1,528 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero_sec {
+    padding: 80px 0 80px 0;
+    background: url(https://images.ctfassets.net/hrltx12pl8hq/58x0YcN2kHPs13b4IFgIWc/83a4efd03dc11441f8f3cbab6e1d8b88/offset_comp_625874_copy.jpg?fit=fill&w=800&h=400);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.hero_content h1 {
+    font-size: 81px;
+    font-weight: 700;
+    line-height: 81px;
+    color: #FFFFFF;
+}
+
+.hero_content p {
+    font-size: 25px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-top: 32px;
+}
+
+.social_links {
+    display: flex;
+}
+
+.social_logo_img {
+    margin: 0 20px 0 0px;
+}
+
+.hero_contect_card {
+    margin-top: 32px;
+}
+
+.card_header {
+    background: linear-gradient(180deg, #543DA5 0%, #3D3587 100%);
+    border-radius: 12px 12px 0px 0px;
+    padding: 20px;
+}
+
+.card_header p {
+    color: #FFFFFF;
+}
+
+.card_header p b {
+    font-size: 28px;
+}
+
+.form_fillup {
+    padding: 20px;
+    background: #F5F5F5;
+    border-radius: 0px 0px 12px 12px;
+}
+
+.form_fillup .form-control {
+    font-weight: 500;
+}
+
+.form_fillup input {
+    margin: 10px 0 18px 0px;
+}
+
+.form_fillup button {
+    background: linear-gradient(180deg, #543DA5 0%, #3D3587 100%);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.brand_logo_title h3 {
+    color: #000000;
+    font-weight: 700;
+    margin-bottom: 45px;
+}
+
+.brands_logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bg-grey {
+    background: #F8F9FC;
+    padding: 100px 0 100px 0;
+}
+
+.service_card {
+    background: #FFFFFF;
+    border-radius: 11px;
+    padding: 32px;
+}
+
+.bottom_border img {
+    width: 20%;
+    margin-top: 15px;
+}
+
+.services_title {
+    margin-bottom: 64px;
+}
+
+.service_card {
+    margin-top: 80px;
+}
+
+.grow_busi_title {
+    margin-bottom: 60px;
+}
+
+hr {
+    border: 1px solid #DBDBDBB0;
+    width: 50%;
+}
+
+.overview_cont p {
+    font-size: 26px;
+    margin-top: 40px;
+}
+
+.itself_boxs {
+    margin-top: 64px;
+}
+
+.overview_image {
+    background: white;
+    border: 32px;
+    margin-top: 80px;
+}
+
+.overview_image img {
+    width: 100%;
+    height: auto;
+}
+
+.bg-purple {
+    background: linear-gradient(180deg, #543DA5 0%, #3D3587 100%);
+    border-radius: 0 0 0 0;
+    padding: 0px 0px 32px 0px;
+}
+
+.money_back .money_back_cont h2 {
+    color: white;
+    margin-bottom: 26px;
+}
+
+.money_back .money_back_cont p {
+    color: white;
+    font-size: 28px;
+}
+
+.guarantee_logo img {
+    position: relative;
+    top: -85px;
+    z-index: 1;
+}
+
+.accordion-item {
+    margin-top: 28px;
+}
+
+.accordion-header button {
+    background: #FFFFFF;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.free_consult p {
+    line-height: 20px;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.free_consult button {
+    background: linear-gradient(180deg, #543DA5 0%, #3D3587 100%);
+    color: white;
+    font-size: 18px;
+    padding: 10px 32px 10px 32px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 25px;
+    font-weight: 700;
+}
+
+.free_consult_sec {
+    margin-top: 90px;
+}
+
+.bg-black {
+    background: #000000;
+    padding: 20px 0 20px 0;
+    margin-top: 80px;
+}
+
+.other_pages {
+    display: flex;
+    margin-top: 20px;
+    justify-content: end;
+}
+
+.other_pages li {
+    list-style-type: none;
+    margin: 0 10px 0 10px;
+}
+
+.copyright p {
+    color: white;
+    margin-top: 20px;
+}
+
+.other_pages li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #000000;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+    background-color: white;
+}
+
+.ask_que_title h2 {
+    font-size: 44px;
+    margin-bottom: 74px;
+}
+
+
+
+
+
+
+
+/**************  Persnol css  ***************/
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    color: #000000;
+    font-size: 19px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #000000;
+}
+
+.mt-90 {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.pb-150 {
+    padding-bottom: 150px !important;
+}
+
+.pt-32 {
+    padding-top: 32px;
+}
+
+/**********  slider Css   ********/
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-100px * 4));
+    }
+}
+
+.slide-track {
+    animation: scroll 10s linear infinite;
+    display: flex;
+}
+
+.slide {
+    margin: 0 25px 0 25px;
+}
+
+.brands_logos {
+    overflow: hidden;
+}
+
+.guarantee_logo {
+    margin-bottom: -40px;
+}
+
+.ml-365 {
+    margin-left: 365px;
+}
+
+
+
+
+
+/**************  media query  ***************/
+
+@media (max-width:574px) {
+    br {
+        display: none;
+    }
+
+    .hero_content h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .social_logo_img {
+        margin: 0 10px 0 0px;
+    }
+
+    .hero_content p {
+        font-size: 21px;
+        margin-top: 24px;
+    }
+
+    .card_header p b {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .col-offset-1 {
+        margin-right: 0;
+    }
+
+    .offset-1 {
+        margin-left: 0;
+    }
+
+    .mt-5 {
+        margin-top: 0 !important;
+    }
+
+    .bottom_border img {
+        width: 50%;
+    }
+
+    .services_title {
+        margin-bottom: 55px;
+    }
+
+    .grow_busi_image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .service_card {
+        padding: 20px;
+        margin-top: 70px;
+    }
+
+    .service_card_cont {
+        margin-top: 10px;
+    }
+
+    .bg-grey {
+        padding: 60px 0 60px 0;
+    }
+
+    .overview_cont p {
+        font-size: 19px;
+    }
+
+    .overview_image img {
+        width: 100%;
+        height: auto !important;
+    }
+
+    .ml-365 {
+        margin-left: 0;
+    }
+
+    .guarantee_logo img {
+        width: 40%;
+    }
+
+    .guarantee_logo {
+        height: 120px;
+    }
+
+    .money_back .money_back_cont p {
+        color: white;
+        font-size: 20px;
+    }
+
+    .ask_que_title h2 {
+        font-size: 41px;
+        margin-bottom: 55px;
+    }
+
+    .copyright p {
+        margin-top: 0px;
+    }
+
+    .copyright {
+        margin-left: 24px;
+    }
+
+    .other_pages {
+        display: block;
+        margin-top: 20px;
+    }
+
+    .slide img {
+        width: 100%;
+        height: auto;
+        margin: 0 135px 0 0;
+        padding: 0px 28px 0px 0px;
+    }
+
+    .slide {
+        margin: 0;
+    }
+
+    .accordion-header button {
+        font-size: 21px;
+    }
+
+    .pt-32 {
+        padding-top: 0px;
+    }
+
+
+
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .grow_busi_image img {
+        width: 100%;
+        height: auto;
+    }
+
+    br {
+        display: none;
+    }
+
+    .hero_content {
+        margin-top: 50px;
+    }
+
+    .hero_content h1 {
+        font-size: 56px;
+        line-height: 60px;
+    }
+
+    .hero_content p {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .col-offset-1 {
+        margin-right: 0;
+    }
+
+    .offset-1 {
+        margin-left: 0;
+    }
+
+    .mt-5 {
+        margin-top: 0 !important;
+    }
+
+    .slide img {
+        width: 70%;
+        height: 39px;
+        margin-right: 180px;
+    }
+
+    .slide {
+        margin: 0;
+    }
+
+    .service_card {
+        margin-top: 0;
+        padding: 20px;
+    }
+
+    .service_card_image img {
+        margin-top: 32px;
+    }
+
+    .overview_cont p {
+        font-size: 24px;
+    }
+
+    .overview_image {
+        margin-top: 60px;
+    }
+
+    .ml-165 {
+        margin-left: 165px;
+    }
+
+    .overview_image img {
+        width: 100%;
+        height: 310px;
+    }
+
+
+
+
+
+}
